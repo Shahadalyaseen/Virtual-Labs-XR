@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3705952402202345595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8636341937363457253}
+  - component: {fileID: 6194649289422210920}
+  m_Layer: 0
+  m_Name: Chemistry3DLab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8636341937363457253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3705952402202345595}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6194649289422210920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3705952402202345595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f421d3d77350ac4083624191e04f38c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Chemistry3DLabManager
+  productSpawnPoint: {fileID: 0}
+  mixTrigger: {fileID: 0}
+  waterPrefab: {fileID: 2821168714571508862, guid: 9cd112fb2e2745b46867198eede983a5, type: 3}
+  saltPrefab: {fileID: 3476915535999748374, guid: 615e07c5d1ab9b2439441b9f58ce32fd, type: 3}
+  carbonDioxidePrefab: {fileID: 2521245478464353902, guid: b32d9f5d832449448ab2d3f3b916421a, type: 3}
+  magnesiumOxidePrefab: {fileID: 6701443941325877544, guid: 6cce708492b003d469d67795cdac5c6a, type: 3}
+  ironSulfidePrefab: {fileID: 24872845952391988, guid: 468c40c14d3836c4ca23b193a255c2b3, type: 3}
+  ammoniaPrefab: {fileID: 7657865550359063786, guid: 4c4c11e7ded06274b9720c778768110d, type: 3}
+  kohPrefab: {fileID: 1687919292526592374, guid: a681f8b0981abe8419f9ff334d75119c, type: 3}
+  calciumHydroxidePrefab: {fileID: 910644380853930754, guid: a1294e3ba85e08b44a01b14715fe6ffa, type: 3}
+  lithiumFluoridePrefab: {fileID: 1896273845481321505, guid: 10baaf5942917f143b41eaf11778f2d0, type: 3}
+  berylliumChloridePrefab: {fileID: 83871420157434616, guid: d424118bf575f3347844b15c62582535, type: 3}
+  boronTrifluoridePrefab: {fileID: 1695095401920060460, guid: ae58d6a126876dc4d830ea3231728a14, type: 3}
+  aluminumChloridePrefab: {fileID: 7813666036986210072, guid: 5e26ed6f816673346b514a19c83f62af, type: 3}
+  silicaPrefab: {fileID: 3342727127894680239, guid: 2fc8f340a712a7847baad73f98226cd9, type: 3}
+  phosphorusPentoxidePrefab: {fileID: 6886613440219736189, guid: 36795d8ea5a49fc4ebb1af249477f791, type: 3}
+  sulfurDioxidePrefab: {fileID: 6449129580084826529, guid: ac1f63d0d6b565e498fb4767edb66251, type: 3}
+  phosphorusTrichloridePrefab: {fileID: 8822915727784692244, guid: 8dd089231d47475478925866f4a17ef6, type: 3}
+  calciumFluoridePrefab: {fileID: 6539771401232158140, guid: 32284ecac2667af45a0729b3a2183856, type: 3}
+  aluminumSulfidePrefab: {fileID: 8772896845758555459, guid: ec3487c92f80a7645a3d67c1385daa28, type: 3}
+  sodiumSulfidePrefab: {fileID: 939459339987508302, guid: aa615cb686ca7484ebaca8e033c82d9d, type: 3}
+  magnesiumChloridePrefab: {fileID: 7278714444950598365, guid: 8785a2de6cf74d0408957702c6a6b159, type: 3}
+  failEffectPrefab: {fileID: 8905865586653090233, guid: 2fa4d1b36f856184a950fd6767ccb8b7, type: 3}
+  elementPrefabs:
+  - {fileID: 1669439001831204693, guid: 0c9b6f5a6de01cd43a0af6cf95c533ae, type: 3}
+  - {fileID: 996218358748640708, guid: b6af64346dc37ec48b437e09a403f7f0, type: 3}
+  - {fileID: 6757204233993590607, guid: f8ffd5e7a498b154baefbd8a1b3b68cc, type: 3}
+  - {fileID: 8599598436782637064, guid: cc51b9b8fddd09d4bb98a8525cf704a2, type: 3}
+  - {fileID: 1043736473110682094, guid: ba5dd75a790cbf04eb6a5f81be955e61, type: 3}
+  - {fileID: 5958526655419712698, guid: f319e4fbb1a292e4990b6b3c130f492c, type: 3}
+  - {fileID: 5230763013750171228, guid: 7e2b9071708f28b4499f1ec697e2691e, type: 3}
+  - {fileID: 6538146986331336394, guid: 0a78d43965d732d4c8ba23dea68493bc, type: 3}
+  - {fileID: 7776190064400935157, guid: 2db4b8c5ed3aafe459837bc72c5473ea, type: 3}
+  - {fileID: 4769669853158563509, guid: dc90d1efa56008545bea31cf9e03bb02, type: 3}
+  - {fileID: 1953299070886055989, guid: ad80e3d282570d749a02bc086a039344, type: 3}
+  - {fileID: 1903732227514563410, guid: 8251d5f175a33664288c67156e9273f5, type: 3}
+  - {fileID: 4371470854354410154, guid: dd95cef261370d5459532f587e63b182, type: 3}
+  - {fileID: 2073854443579523138, guid: 85cb7283946d28b4eb297c5d182b8c77, type: 3}
+  - {fileID: 2612039764186799382, guid: a349c770051da5c449f62210c5e096b0, type: 3}
+  - {fileID: 7819846053594123624, guid: 6c831efb20dbafa49b99c0fb34b3815e, type: 3}
+  - {fileID: 3763616026916855927, guid: 3e40e19c3db5f2743969b18ee29b55bd, type: 3}
+  - {fileID: 4339624927453813932, guid: 7e3465df42a4287408bb898925305256, type: 3}
+  - {fileID: 2809518692948962320, guid: 1236f25de7cdef54f9ab8edc676ef038, type: 3}
+  - {fileID: 8632418094450639111, guid: d64156e82a6acff4da9260b365c31c79, type: 3}
+  inventoryText: {fileID: 0}
+  resultText: {fileID: 0}
+  raycastCamera: {fileID: 0}
+  maxRayDistance: 500
+  clickMask:
+    serializedVersion: 2
+    m_Bits: 4294967295

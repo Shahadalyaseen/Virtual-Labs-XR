@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5550596053957718725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1933627747522598107}
+  - component: {fileID: 8824251517956508689}
+  - component: {fileID: 548355070161252515}
+  m_Layer: 0
+  m_Name: Chemistry3DLab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1933627747522598107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5550596053957718725}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: -0.00016143708, y: -0.00016143708, z: -0.00016143708}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8824251517956508689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5550596053957718725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f421d3d77350ac4083624191e04f38c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Chemistry3DLabManager
+  productSpawnPoint: {fileID: 0}
+  mixTrigger: {fileID: 0}
+  waterPrefab: {fileID: 5910902553312994342, guid: 2159e4e4a0577434f858bce983bee6bb, type: 3}
+  saltPrefab: {fileID: 3045825037472992303, guid: 0ff753f84c4090944add94a9c3be002c, type: 3}
+  carbonDioxidePrefab: {fileID: 6668960094651953191, guid: de9325581ec13f843aac369e88d75c87, type: 3}
+  magnesiumOxidePrefab: {fileID: 7736173416154049900, guid: 7471886606fe5a140bd9a3160bbbaad2, type: 3}
+  ironSulfidePrefab: {fileID: 2219307614380598082, guid: e903178a0380ee5418b3745a056e6530, type: 3}
+  ammoniaPrefab: {fileID: 3522264436287868088, guid: c659658976a39a445b777c9990890391, type: 3}
+  kohPrefab: {fileID: 2767221399960206009, guid: e1bbd6d893f06e74caf3430698287a6e, type: 3}
+  calciumHydroxidePrefab: {fileID: 7132505383590359845, guid: 3d5512f90c676c44bbad292a1ea7c9fd, type: 3}
+  lithiumFluoridePrefab: {fileID: 5509211426857991985, guid: 630c87b458debf844949fcdd660dc22d, type: 3}
+  berylliumChloridePrefab: {fileID: 985556898687317028, guid: 0118406e4fa18104791d9031c887b07c, type: 3}
+  boronTrifluoridePrefab: {fileID: 1912666785050214898, guid: ee4b7a5de3db0394f8f21a09b56ddbde, type: 3}
+  aluminumChloridePrefab: {fileID: 1726288799807729889, guid: 63e1a816f3cd3074da0cf3a61ecc59c2, type: 3}
+  silicaPrefab: {fileID: 8332247338371929780, guid: 5bd58abd84f5d454ea1d7ca064c4043f, type: 3}
+  phosphorusPentoxidePrefab: {fileID: 6051125553809382315, guid: 85695a461d6f0c341b0670d05afd1fdb, type: 3}
+  sulfurDioxidePrefab: {fileID: 9194631335518905825, guid: e55ca870ccc30ba41b4bfbbe75e9ac6d, type: 3}
+  phosphorusTrichloridePrefab: {fileID: 734465932586320760, guid: 70e7a8d581911414988d0cb73724728f, type: 3}
+  calciumFluoridePrefab: {fileID: 4819176629267571173, guid: 2dcdd078a51db5541b9df804c4a7c273, type: 3}
+  aluminumSulfidePrefab: {fileID: 8366312244281576050, guid: 85e69aca14a5502449e2dfeada5ea737, type: 3}
+  sodiumSulfidePrefab: {fileID: 3045825037472992303, guid: b33db75f753257845898660c64e03d9f, type: 3}
+  magnesiumChloridePrefab: {fileID: 7116056978912903835, guid: 48a4011a71070064bb44f0459c73a260, type: 3}
+  failEffectPrefab: {fileID: 4813503076498006965, guid: f246256c4ee788644b6c1df71062bfb9, type: 3}
+  elementPrefabs:
+  - {fileID: 1669439001831204693, guid: 0c9b6f5a6de01cd43a0af6cf95c533ae, type: 3}
+  - {fileID: 996218358748640708, guid: b6af64346dc37ec48b437e09a403f7f0, type: 3}
+  - {fileID: 6757204233993590607, guid: f8ffd5e7a498b154baefbd8a1b3b68cc, type: 3}
+  - {fileID: 8599598436782637064, guid: cc51b9b8fddd09d4bb98a8525cf704a2, type: 3}
+  - {fileID: 1043736473110682094, guid: ba5dd75a790cbf04eb6a5f81be955e61, type: 3}
+  - {fileID: 5958526655419712698, guid: f319e4fbb1a292e4990b6b3c130f492c, type: 3}
+  - {fileID: 5230763013750171228, guid: 7e2b9071708f28b4499f1ec697e2691e, type: 3}
+  - {fileID: 6538146986331336394, guid: 0a78d43965d732d4c8ba23dea68493bc, type: 3}
+  - {fileID: 7776190064400935157, guid: 2db4b8c5ed3aafe459837bc72c5473ea, type: 3}
+  - {fileID: 4769669853158563509, guid: dc90d1efa56008545bea31cf9e03bb02, type: 3}
+  - {fileID: 1953299070886055989, guid: ad80e3d282570d749a02bc086a039344, type: 3}
+  - {fileID: 1903732227514563410, guid: 8251d5f175a33664288c67156e9273f5, type: 3}
+  - {fileID: 4371470854354410154, guid: dd95cef261370d5459532f587e63b182, type: 3}
+  - {fileID: 2073854443579523138, guid: 85cb7283946d28b4eb297c5d182b8c77, type: 3}
+  - {fileID: 2612039764186799382, guid: a349c770051da5c449f62210c5e096b0, type: 3}
+  - {fileID: 7819846053594123624, guid: 6c831efb20dbafa49b99c0fb34b3815e, type: 3}
+  - {fileID: 3763616026916855927, guid: 3e40e19c3db5f2743969b18ee29b55bd, type: 3}
+  - {fileID: 4339624927453813932, guid: 7e3465df42a4287408bb898925305256, type: 3}
+  - {fileID: 2809518692948962320, guid: 1236f25de7cdef54f9ab8edc676ef038, type: 3}
+  - {fileID: 8632418094450639111, guid: d64156e82a6acff4da9260b365c31c79, type: 3}
+  inventoryText: {fileID: 0}
+  resultText: {fileID: 0}
+  raycastCamera: {fileID: 0}
+  maxRayDistance: 500
+  clickMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &548355070161252515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5550596053957718725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fbd510aff6ce9499b9058afc60498a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ReactionEffect
+  basePlate: {fileID: 0}
+  beamParticles: {fileID: 0}
+  spawnPoint: {fileID: 0}
+  rotationSpeed: 150
+  floatSpeed: 2
+  floatAmount: 0.08

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a99340a6e61116c4bb7e62638cc8e069
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275536
+  packageName: Modern Physics Lab
+  packageVersion: 1.0
+  assetPath: Assets/Physics Lab/Scenes/PhysicsLab Lighting Settings.lighting
+  uploadId: 640152

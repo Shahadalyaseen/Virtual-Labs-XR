@@ -1,0 +1,1472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4535971170205641580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2604913864721060608}
+  m_Layer: 0
+  m_Name: Arrows_Experiment1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2604913864721060608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4535971170205641580}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.96464, y: 0.96464, z: 0.96464}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1692723545833243577}
+  - {fileID: 9167715820772241599}
+  - {fileID: 3486660851670871263}
+  - {fileID: 5336278724324047167}
+  - {fileID: 1944657231563675605}
+  - {fileID: 8792215252839334461}
+  - {fileID: 2422256782944472095}
+  m_Father: {fileID: 3532604191937966064}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4753266734771284703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3532604191937966064}
+  m_Layer: 0
+  m_Name: NavigationArrowsnew
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3532604191937966064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4753266734771284703}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.25913998, y: 1.11735, z: 16.1622}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2604913864721060608}
+  - {fileID: 4665540717188099626}
+  - {fileID: 3107361993825363334}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6525400358332476650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3107361993825363334}
+  m_Layer: 0
+  m_Name: Arrows_Experiment3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3107361993825363334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525400358332476650}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6344963923041888262}
+  - {fileID: 4243454367320218701}
+  - {fileID: 3860915716369454076}
+  - {fileID: 6536234544254714860}
+  m_Father: {fileID: 3532604191937966064}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7562726078882153020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4665540717188099626}
+  m_Layer: 0
+  m_Name: Arrows_Experiment2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4665540717188099626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7562726078882153020}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3322849752437783833}
+  - {fileID: 5104168258875487743}
+  - {fileID: 7275542648565319164}
+  - {fileID: 848271430509228646}
+  - {fileID: 6363051253592525573}
+  - {fileID: 8388394500858618176}
+  m_Father: {fileID: 3532604191937966064}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &886948689810036109
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4665540717188099626}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.249368
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493677
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.249368
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.67977
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.028939247
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.635819
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5684323
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.42057672
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.42057672
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5684323
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 72.995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &848271430509228646 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 886948689810036109}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1222580401468990546
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.3684766
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.3684764
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.3684764
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.182
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.811
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.159
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5939719
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.80448586
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 72.879
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &1692723545833243577 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 1222580401468990546}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2123014083690246206
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.847
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.444
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.731
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.61387444
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.4408744
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.37602332
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5360918
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 70.813
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -1.924
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -83.629
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &1944657231563675605 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 2123014083690246206}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2744711738104671220
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.86
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.27
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.77688175
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.55629027
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.18854976
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.22681485
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 71.782
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -7.464
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 27.146
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &2422256782944472095 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 2744711738104671220}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2997034792839617266
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4665540717188099626}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.249367
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.249367
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493672
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1755645
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7823231
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.587619
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.59397197
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.8044858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 72.879
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &3322849752437783833 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 2997034792839617266}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3611327379308409879
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3107361993825363334}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493687
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493684
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493694
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.823
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.299
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.684
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.77673423
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.54578316
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.20266189
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.24027675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 70.952
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 9.266
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -27.767
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &3860915716369454076 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 3611327379308409879}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4028930489890310964
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.79
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.37
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.34
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.542977
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.3641527
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.45425117
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.6051651
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 70.952
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 9.266
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.59
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &3486660851670871263 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 4028930489890310964}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4425206917212601254
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3107361993825363334}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.009
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.891
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.919
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.21100588
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.15664762
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.58169943
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7697817
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 74.085
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.902
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -148.662
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &4243454367320218701 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 4425206917212601254}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4710515073324782100
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4665540717188099626}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3678595
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.83923686
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.3262005
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.21100588
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.15664761
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.58169943
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7697817
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 74.085
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.902
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -148.662
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &5104168258875487743 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 4710515073324782100}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5585866821454683860
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.778
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.099
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5684323
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.42057675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.42057675
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5684323
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 72.995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &5336278724324047167 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 5585866821454683860}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6719344038799860743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3107361993825363334}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.167
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.278
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7721806
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5713276
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.16539112
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.22353467
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 72.995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 32.29
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &6536234544254714860 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 6719344038799860743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6883591979941875693
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3107361993825363334}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.249367
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.249367
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493672
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1755645
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7823231
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.587619
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.59397197
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.8044858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 72.879
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &6344963923041888262 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 6883591979941875693}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6900816569132248302
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4665540717188099626}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493684
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493672
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.74633
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.42830014
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.316192
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.75301766
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.53793174
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.2153907
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.3117702
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 70.813
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -1.924
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -46.35
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &6363051253592525573 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 6900816569132248302}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7168976344838939159
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4665540717188099626}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493687
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493687
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.6913457
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.3569169
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.832938
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.542977
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.36415267
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4542511
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.6051651
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 70.952
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 9.266
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.59
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &7275542648565319164 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 7168976344838939159}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8350563384327521963
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4665540717188099626}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.2493684
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.2493672
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.2493682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.673
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.615
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.831
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7804021
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.55285823
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.173527
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.23496571
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 70.813
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -1.924
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 32.144
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &8388394500858618176 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 8350563384327521963}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8696729650076243796
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.418
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -15.888
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.21100588
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.1566476
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.58169943
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7697817
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 74.085
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.902
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -148.662
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &9167715820772241599 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 8696729650076243796}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9047309769785730518
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2604913864721060608}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.368477
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.827
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.859
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.459
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6695009
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.46611664
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.32232067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.480222
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 69.019
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -2.576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -73.074
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+      propertyPath: m_Name
+      value: Arrow Icon In Flat Style Arrow Symbol (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+--- !u!4 &8792215252839334461 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 363a3e7f557a396409fb40535118d901, type: 3}
+  m_PrefabInstance: {fileID: 9047309769785730518}
+  m_PrefabAsset: {fileID: 0}

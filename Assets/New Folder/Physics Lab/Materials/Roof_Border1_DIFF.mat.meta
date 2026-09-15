@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 511e37136fd0d144cb4462359263832e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275536
+  packageName: Modern Physics Lab
+  packageVersion: 1.0
+  assetPath: Assets/Physics Lab/Materials/Roof_Border1_DIFF.mat
+  uploadId: 640152
