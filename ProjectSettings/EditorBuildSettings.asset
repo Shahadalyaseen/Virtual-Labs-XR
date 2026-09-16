@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: Assets/New Folder/startUI.unity
     guid: fd35f993a704eb44293eed71a1d69a10
   - enabled: 1
-    path: Assets/New Folder/Scenes/SampleScene.unity
+    path: Assets/New Folder/Scenes/CircuitLab.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
-    path: Assets/New Folder/MainJoud.unity
+    path: Assets/New Folder/PhysicsLab.unity
     guid: 9e61740ca4cbfcc4b8d18040619aa33e
   - enabled: 1
     path: Assets/LAB/Chemistry Lab.unity
@@ -28,4 +28,5 @@ EditorBuildSettings:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2462f957eee75f940a3393fd6f039795, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 136958f90a130274b8b70a31eed352fb, type: 2}
   m_UseUCBPForAssetBundles: 0
+
 
